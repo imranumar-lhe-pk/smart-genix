@@ -60,7 +60,7 @@ const HeroSection = () => {
         </HeroSubText>
         <HeroDescriptionText color="white" variant="body1">
           Empowering mechanics with cutting-edge tools and giving vehicle owners
-          clear insights into their car's health, fostering trust and
+          clear insights into their car&apos;s health, fostering trust and
           transparency in the auto repair industry.
         </HeroDescriptionText>
         <StyledButton variant="contained" href="/product" endIcon={<ArrowForwardIcon />}>

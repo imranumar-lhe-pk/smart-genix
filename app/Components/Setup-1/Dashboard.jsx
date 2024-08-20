@@ -5,7 +5,7 @@ import Header from './Header';
 import ProgressBar from './ProgressBar';
 import SelectionBoxes from './SelectionBoxes';
 import NextButton from './NextButton';
-import { Box, Typography } from '@mui/material';
+import { Box, Card, Typography } from '@mui/material';
 
 const Dashboard = () => {
     const [activeStep, setActiveStep] = useState(0);
